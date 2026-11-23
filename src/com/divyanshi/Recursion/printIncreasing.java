@@ -6,6 +6,7 @@ public class printIncreasing {
             System.out.println(n);
             return;
         }
+
         PrintIncrease(n-1);
         System.out.println(n);
     }
